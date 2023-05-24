@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactex2/static/css/main.7f2cc3aa.css",
+    "main.js": "/reactex2/static/js/main.bf85ca99.js",
+    "static/js/787.5b321155.chunk.js": "/reactex2/static/js/787.5b321155.chunk.js",
+    "static/media/logo.svg": "/reactex2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reactex2/index.html",
+    "main.7f2cc3aa.css.map": "/reactex2/static/css/main.7f2cc3aa.css.map",
+    "main.bf85ca99.js.map": "/reactex2/static/js/main.bf85ca99.js.map",
+    "787.5b321155.chunk.js.map": "/reactex2/static/js/787.5b321155.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f2cc3aa.css",
+    "static/js/main.bf85ca99.js"
+  ]
+}
